@@ -20,11 +20,17 @@ Vector:  ['-9.995', '-8.779', '-0.570'] ['-0.056', '0.602', '11.672']
 NAMES:  GLU GLU
 Indices:  ('104', '106')
 Vector:  ['1.014', '-1.696', '6.602'] ['-2.715', '-7.368', '6.319']
-======================================================================================================================================
+
 Sample Output for Task-2:
+======================================================================================================================================
 ->I used library numpy for this task. For that you need to install pip and wheel. Download the compatible numpy for your system and install.
+
 ->By using command prompt enter into the python folder wherever you have installed.
+
 ->Give python newtask2.py and hit enter.
+
 ->It then prompts to enter the input file name. Enter either 1NVF.pdb/1NVS.pdb/1S04.pdb/2P8Y.pdb/1AOP.pdb.
+
 ->It then generates a final.pdb file in the folder where newtask2.py is present. 
+
 ->Open final.pdb file in chimera.
